@@ -1,0 +1,9 @@
+langchain_community 
+tiktoken 
+langchain-ollama 
+langchainhub 
+chromadb 
+langchain 
+pydantic-settings 
+langchain-chroma
+langchain-core  
